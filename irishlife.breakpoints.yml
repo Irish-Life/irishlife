@@ -1,16 +1,16 @@
 # Breakpoints - change based on site need
-bline.small:
+irishlife.small:
   label: small
   mediaQuery: 'all and (min-width: 25em)'
-bline.small-med:
+irishlife.small-med:
   label: small-med
   mediaQuery: 'all and (min-width: 26em)'
-bline.small-large:
+irishlife.small-large:
   label: small-large
   mediaQuery: 'all and (min-width: 41em)'
-bline.medium:
+irishlife.medium:
   label: medium
   mediaQuery: 'all and (min-width: 48em)'
-bline.large:
+irishlife.large:
   label: large
   mediaQuery: 'all and (min-width: 61.25em)'
