@@ -1,4 +1,4 @@
-name: bline
+name: irishlife
 type: theme
 description: Theme based on <a href="http://emulsify.info">Emulsify</a>.
 base theme: stable
@@ -6,7 +6,7 @@ core: 8.x
 
 # Libraries (These are loaded on every page. Use https://www.drupal.org/developing/api/8/assets#twig whenever possible.)
 libraries:
-  - 'bline/global'
+  - 'irishlife/global'
   # - 'bline/typekit'
 
 # Libraries override allows you to remove libraries added by other projects.
